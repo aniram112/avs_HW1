@@ -1,0 +1,9 @@
+Filled container:
+Container contains 7 elements.
+0: symbols cypher: cyphered text = sup, decyphered text = dfg. function_result = 101.667
+1: cyclic cypher: cyphered text = cycle, decyphered text = h~hqj. function result = 110.6
+2: symbols cypher: cyphered text = pes, decyphered text = bcd. function_result = 99
+3: symbols cypher: cyphered text = test, decyphered text = rwer. function_result = 112
+4: numbers cypher: cyphered text = 132, decyphered text = abc. function result = 98
+5: cyclic cypher: cyphered text = abc, decyphered text = cde. function result = 100
+6: symbols cypher: cyphered text = abcdef, decyphered text = qwrtyu. function_result = 116.667

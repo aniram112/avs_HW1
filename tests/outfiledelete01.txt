@@ -1,0 +1,6 @@
+After deleting:
+Mean: 105.419 Sum: 737.933 Len: 7
+Container contains 3 elements.
+0: cyclic cypher: cyphered text = cycle, decyphered text = h~hqj. function result = 110.6
+1: symbols cypher: cyphered text = test, decyphered text = rwer. function_result = 112
+2: symbols cypher: cyphered text = abcdef, decyphered text = qwrtyu. function_result = 116.667

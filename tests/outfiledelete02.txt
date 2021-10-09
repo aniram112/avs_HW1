@@ -1,0 +1,9 @@
+After deleting:
+Mean: 105.242 Sum: 1473.39 Len: 14
+Container contains 6 elements.
+0: numbers cypher: cyphered text = 152304911, decyphered text = friends. function result = 106.714
+1: cyclic cypher: cyphered text = alphabet, decyphered text = kvzrklo~. function result = 114.125
+2: cyclic cypher: cyphered text = test, decyphered text = yjxy. function result = 117
+3: symbols cypher: cyphered text = test, decyphered text = rwer. function_result = 112
+4: cyclic cypher: cyphered text = fdhsjghdk, decyphered text = omq|spqmt. function result = 113.556
+5: numbers cypher: cyphered text = 1523049, decyphered text = friend. function result = 105.333

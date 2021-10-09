@@ -1,0 +1,16 @@
+Filled container:
+Container contains 14 elements.
+0: symbols cypher: cyphered text = abc, decyphered text = bcd. function_result = 99
+1: numbers cypher: cyphered text = 152304911, decyphered text = friends. function result = 106.714
+2: cyclic cypher: cyphered text = alphabet, decyphered text = kvzrklo~. function result = 114.125
+3: symbols cypher: cyphered text = hse, decyphered text = dfg. function_result = 101.667
+4: cyclic cypher: cyphered text = test, decyphered text = yjxy. function result = 117
+5: numbers cypher: cyphered text = 123, decyphered text = abc. function result = 98
+6: symbols cypher: cyphered text = test, decyphered text = rwer. function_result = 112
+7: cyclic cypher: cyphered text = abc, decyphered text = cde. function result = 100
+8: symbols cypher: cyphered text = rule, decyphered text = make. function_result = 103.5
+9: cyclic cypher: cyphered text = fdhsjghdk, decyphered text = omq|spqmt. function result = 113.556
+10: numbers cypher: cyphered text = 1523049, decyphered text = friend. function result = 105.333
+11: cyclic cypher: cyphered text = abcdefgh, decyphered text = bcdefghi. function result = 101.5
+12: cyclic cypher: cyphered text = abcdefgh, decyphered text = cdefghij. function result = 102.5
+13: cyclic cypher: cyphered text = ab, decyphered text = bc. function result = 98.5

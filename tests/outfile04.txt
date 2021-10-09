@@ -1,0 +1,502 @@
+Filled container:
+Container contains 500 elements.
+0: symbols cypher: cyphered text = rylivcpcjb, decyphered text = wktgowclew. function_result = 110.2
+1: cyclic cypher: cyphered text = exlbxmeht, decyphered text = fymcynfiu. function result = 109.556
+2: symbols cypher: cyphered text = tjz, decyphered text = wee. function_result = 107
+3: numbers cypher: cyphered text = 324616, decyphered text = plyg. function result = 111
+4: numbers cypher: cyphered text = 126012288024524, decyphered text = dcnmhswz. function result = 109.75
+5: numbers cypher: cyphered text = 122016, decyphered text = cap. function result = 102.667
+6: numbers cypher: cyphered text = 1851020, decyphered text = nbpk. function result = 106.75
+7: numbers cypher: cyphered text = 3168, decyphered text = efs. function result = 106
+8: numbers cypher: cyphered text = 5036, decyphered text = wd. function result = 109.5
+9: cyclic cypher: cyphered text = zpublcb, decyphered text = {qvcmdc. function result = 108.714
+10: symbols cypher: cyphered text = tnrqorbl, decyphered text = bhetbbas. function_result = 103.375
+11: symbols cypher: cyphered text = owiely, decyphered text = vgihhe. function_result = 105.833
+12: symbols cypher: cyphered text = mvnkpyutrl, decyphered text = gzhdlfovvd. function_result = 108.6
+13: numbers cypher: cyphered text = 8081, decyphered text = px. function result = 116
+14: symbols cypher: cyphered text = tgpgf, decyphered text = dcxif. function_result = 105.2
+15: cyclic cypher: cyphered text = epcngzwtkq, decyphered text = lwjunÅ~{rx. function result = 91.6
+16: cyclic cypher: cyphered text = aae, decyphered text = jjn. function result = 107.333
+17: numbers cypher: cyphered text = 56809421824, decyphered text = xtcotm. function result = 111.833
+18: cyclic cypher: cyphered text = rpubbyu, decyphered text = {y~kkÇ~. function result = 83.4286
+19: numbers cypher: cyphered text = 810277, decyphered text = sywe. function result = 114
+20: cyclic cypher: cyphered text = bkoi, decyphered text = enrl. function result = 108.25
+21: numbers cypher: cyphered text = 36, decyphered text = e. function result = 101
+22: symbols cypher: cyphered text = eewcvchq, decyphered text = besiksgr. function_result = 107.25
+23: numbers cypher: cyphered text = 3242242415, decyphered text = boiet. function result = 106.2
+24: cyclic cypher: cyphered text = dvi, decyphered text = l~q. function result = 115.667
+25: cyclic cypher: cyphered text = blmdjq, decyphered text = fpqhnu. function result = 109.667
+26: symbols cypher: cyphered text = pnosc, decyphered text = iflek. function_result = 104.6
+27: cyclic cypher: cyphered text = lkvnbzf, decyphered text = qp{sgk. function result = 114.286
+28: cyclic cypher: cyphered text = vyzyjhnw, decyphered text = {~~oms|. function result = 120.125
+29: cyclic cypher: cyphered text = xq, decyphered text = yr. function result = 117.5
+30: numbers cypher: cyphered text = 543540, decyphered text = gkr. function result = 108
+31: numbers cypher: cyphered text = 602020, decyphered text = ika. function result = 103
+32: numbers cypher: cyphered text = 601010702415108715, decyphered text = qigbigxsmw. function result = 109
+33: numbers cypher: cyphered text = 12355610628988190, decyphered text = xkzjtowugp. function result = 113.3
+34: numbers cypher: cyphered text = 4848567079638, decyphered text = xjqzbzesj. function result = 111.444
+35: cyclic cypher: cyphered text = jesfo, decyphered text = niwjs. function result = 111
+36: cyclic cypher: cyphered text = xtpng, decyphered text = {wsqj. function result = 115.2
+37: cyclic cypher: cyphered text = zyeycf, decyphered text = }|h|fi. function result = 114
+38: cyclic cypher: cyphered text = cgjqswcg, decyphered text = jnqxz~jn. function result = 114.125
+39: cyclic cypher: cyphered text = fkfbnu, decyphered text = mrmiu|. function result = 113
+40: symbols cypher: cyphered text = axpmbv, decyphered text = chluhi. function_result = 106.167
+41: numbers cypher: cyphered text = 5041524244854924, decyphered text = zwijshyjf. function result = 111.111
+42: numbers cypher: cyphered text = 10382028870, decyphered text = xmnntcd. function result = 109.143
+43: symbols cypher: cyphered text = hfhvrmxzvj, decyphered text = ofhbddlcjj. function_result = 103.4
+44: cyclic cypher: cyphered text = uexvbsa, decyphered text = yi|zfwe. function result = 113.429
+45: symbols cypher: cyphered text = qdhs, decyphered text = nuso. function_result = 113.25
+46: numbers cypher: cyphered text = 1863548484291416, decyphered text = kkfmzrsnc. function result = 109.444
+47: symbols cypher: cyphered text = ab, decyphered text = nz. function_result = 116
+48: numbers cypher: cyphered text = 164283642436, decyphered text = uqlautq. function result = 111.571
+49: cyclic cypher: cyphered text = jvotwn, decyphered text = nzsx{r. function result = 117.333
+50: cyclic cypher: cyphered text = vvdas, decyphered text = ||jgy. function result = 115.6
+51: numbers cypher: cyphered text = 24508830415, decyphered text = ulgdzco. function result = 108.571
+52: numbers cypher: cyphered text = 122445362016485616, decyphered text = dvssrdjee. function result = 107.778
+53: numbers cypher: cyphered text = 62, decyphered text = jk. function result = 106.5
+54: numbers cypher: cyphered text = 916, decyphered text = wa. function result = 108
+55: cyclic cypher: cyphered text = ssivm, decyphered text = zzp}t. function result = 119.4
+56: numbers cypher: cyphered text = 44918159, decyphered text = mfumku. function result = 110.167
+57: cyclic cypher: cyphered text = vbjwony, decyphered text = {go|ts~. function result = 116.857
+58: cyclic cypher: cyphered text = vhj, decyphered text = ~pr. function result = 117.333
+59: symbols cypher: cyphered text = iwsluryl, decyphered text = bxkwcbqu. function_result = 108.875
+60: numbers cypher: cyphered text = 435277556106020, decyphered text = zibbntibp. function result = 107.111
+61: numbers cypher: cyphered text = 4040323682, decyphered text = kwpnver. function result = 111.571
+62: numbers cypher: cyphered text = 35631869827100, decyphered text = seuszjpd. function result = 111
+63: symbols cypher: cyphered text = ppsdhdq, decyphered text = pouzbnr. function_result = 112
+64: numbers cypher: cyphered text = 481227502030, decyphered text = myqukj. function result = 112.167
+65: cyclic cypher: cyphered text = ik, decyphered text = jl. function result = 107
+66: cyclic cypher: cyphered text = uzmitjeytf, decyphered text = }Çuq|rmÅ|n. function result = 68.3
+67: numbers cypher: cyphered text = 6016, decyphered text = tu. function result = 116.5
+68: cyclic cypher: cyphered text = fcma, decyphered text = olvj. function result = 110.75
+69: symbols cypher: cyphered text = turymzvd, decyphered text = ettjdsgh. function_result = 107.625
+70: symbols cypher: cyphered text = lt, decyphered text = lj. function_result = 107
+71: numbers cypher: cyphered text = 14706907, decyphered text = xkaym. function result = 110.8
+72: symbols cypher: cyphered text = yvpkm, decyphered text = tgltn. function_result = 110.6
+73: cyclic cypher: cyphered text = i, decyphered text = j. function result = 106
+74: numbers cypher: cyphered text = 2040, decyphered text = tn. function result = 113
+75: numbers cypher: cyphered text = 2527, decyphered text = bl. function result = 103
+76: symbols cypher: cyphered text = kk, decyphered text = ib. function_result = 101.5
+77: numbers cypher: cyphered text = 24204590301540, decyphered text = bxyzhvk. function result = 112.857
+78: cyclic cypher: cyphered text = jvqm, decyphered text = lxso. function result = 113.5
+79: cyclic cypher: cyphered text = lrmkbqkatq, decyphered text = pvqofuoexu. function result = 112.2
+80: symbols cypher: cyphered text = utitjc, decyphered text = xhiyqd. function_result = 110.5
+81: numbers cypher: cyphered text = 4063905, decyphered text = glpb. function result = 105.25
+82: symbols cypher: cyphered text = yynbhxfgz, decyphered text = eqsbocomg. function_result = 106.667
+83: numbers cypher: cyphered text = 740, decyphered text = qc. function result = 106
+84: cyclic cypher: cyphered text = o, decyphered text = r. function result = 114
+85: symbols cypher: cyphered text = w, decyphered text = v. function_result = 118
+86: cyclic cypher: cyphered text = kdb, decyphered text = unl. function result = 111.667
+87: cyclic cypher: cyphered text = vrvld, decyphered text = zvzph. function result = 115.6
+88: cyclic cypher: cyphered text = fxbnufbfxc, decyphered text = j|fryjfj|g. function result = 110.8
+89: numbers cypher: cyphered text = 455321030355690, decyphered text = rvuwkark. function result = 111.625
+90: cyclic cypher: cyphered text = vv, decyphered text = yy. function result = 121
+91: cyclic cypher: cyphered text = mmmi, decyphered text = nnnj. function result = 109
+92: symbols cypher: cyphered text = ab, decyphered text = oo. function_result = 111
+93: cyclic cypher: cyphered text = tilvcr, decyphered text = ynq{hw. function result = 115
+94: numbers cypher: cyphered text = 436181645563045, decyphered text = uretseog. function result = 109.75
+95: symbols cypher: cyphered text = haall, decyphered text = lnuoi. function_result = 110.2
+96: cyclic cypher: cyphered text = ijru, decyphered text = rs{~. function result = 119.5
+97: numbers cypher: cyphered text = 634970, decyphered text = dajc. function result = 100.5
+98: numbers cypher: cyphered text = 24156318806362910, decyphered text = kokvmlecvo. function result = 108.9
+99: cyclic cypher: cyphered text = htsfwfh, decyphered text = myxk|km. function result = 113.857
+100: cyclic cypher: cyphered text = hetus, decyphered text = nkz{y. function result = 116.6
+101: cyclic cypher: cyphered text = imqwajckwe, decyphered text = rvzÄjsltÄn. function result = 65.3
+102: numbers cypher: cyphered text = 16, decyphered text = w. function result = 119
+103: cyclic cypher: cyphered text = ry, decyphered text = x. function result = 123.5
+104: symbols cypher: cyphered text = tsnt, decyphered text = jcqj. function_result = 106
+105: numbers cypher: cyphered text = 10304828489020, decyphered text = hqnbxxf. function result = 109.571
+106: numbers cypher: cyphered text = 64163104528568116, decyphered text = afoommzgu. function result = 109
+107: cyclic cypher: cyphered text = uvafxspr, decyphered text = xydi{vsu. function result = 114.875
+108: symbols cypher: cyphered text = rjrd, decyphered text = fnsj. function_result = 108.25
+109: numbers cypher: cyphered text = 164016123612, decyphered text = mhuofh. function result = 107.833
+110: numbers cypher: cyphered text = 5645451875650309, decyphered text = myciuvyrv. function result = 113.556
+111: cyclic cypher: cyphered text = h, decyphered text = n. function result = 110
+112: numbers cypher: cyphered text = 80, decyphered text = k. function result = 107
+113: cyclic cypher: cyphered text = afyjo, decyphered text = di|mr. function result = 110.4
+114: numbers cypher: cyphered text = 590646424121289, decyphered text = ddwbnqklw. function result = 108.222
+115: cyclic cypher: cyphered text = sfgoydh, decyphered text = }pqyÉnr. function result = 81.4286
+116: cyclic cypher: cyphered text = ychlzxtbw, decyphered text = ÉmrvÑÇ~lÅ. function result = 8.11111
+117: symbols cypher: cyphered text = fbmc, decyphered text = rliv. function_result = 111.25
+118: numbers cypher: cyphered text = 155, decyphered text = xe. function result = 110.5
+119: symbols cypher: cyphered text = i, decyphered text = k. function_result = 107
+120: symbols cypher: cyphered text = cj, decyphered text = gs. function_result = 109
+121: numbers cypher: cyphered text = 817260442902842, decyphered text = ynndlnjp. function result = 109.625
+122: numbers cypher: cyphered text = 1048645425618141012, decyphered text = zwqpttjuem. function result = 113.1
+123: cyclic cypher: cyphered text = jmbsccrl, decyphered text = ruj{kkzt. function result = 114
+124: cyclic cypher: cyphered text = j, decyphered text = s. function result = 115
+125: symbols cypher: cyphered text = fxptxg, decyphered text = ecpasr. function_result = 106.333
+126: numbers cypher: cyphered text = 2420660511068, decyphered text = rwdxaqdhe. function result = 107.556
+127: numbers cypher: cyphered text = 990566340303036, decyphered text = tmakkawh. function result = 107
+128: numbers cypher: cyphered text = 820910030203804042, decyphered text = bddxhvbnwy. function result = 108.8
+129: symbols cypher: cyphered text = cboz, decyphered text = xskv. function_result = 115
+130: symbols cypher: cyphered text = a, decyphered text = c. function_result = 99
+131: numbers cypher: cyphered text = 10971, decyphered text = gotv. function result = 112
+132: cyclic cypher: cyphered text = d, decyphered text = n. function result = 110
+133: cyclic cypher: cyphered text = ajfnzkq, decyphered text = dmiq}nt. function result = 111.143
+134: numbers cypher: cyphered text = 1816, decyphered text = jp. function result = 109
+135: cyclic cypher: cyphered text = y, decyphered text = Ç. function result = -126
+136: symbols cypher: cyphered text = c, decyphered text = k. function_result = 107
+137: symbols cypher: cyphered text = vwzjcvvcwq, decyphered text = rmyeauxpvg. function_result = 111.2
+138: numbers cypher: cyphered text = 203024102030, decyphered text = roomle. function result = 109
+139: cyclic cypher: cyphered text = tpsd, decyphered text = |x{l. function result = 118.75
+140: symbols cypher: cyphered text = icvozoini, decyphered text = laguzdant. function_result = 107.778
+141: symbols cypher: cyphered text = pqqwitr, decyphered text = uesosgt. function_result = 111.143
+142: symbols cypher: cyphered text = e, decyphered text = w. function_result = 119
+143: symbols cypher: cyphered text = qapqqssr, decyphered text = rcqkltcd. function_result = 107
+144: cyclic cypher: cyphered text = mdlifoxjv, decyphered text = pgolir{my. function result = 111.778
+145: symbols cypher: cyphered text = upymdpks, decyphered text = wqdvnsgz. function_result = 112.5
+146: numbers cypher: cyphered text = 421003216801520940, decyphered text = oxzoljlkp. function result = 111.667
+147: cyclic cypher: cyphered text = m, decyphered text = p. function result = 112
+148: cyclic cypher: cyphered text = ctag, decyphered text = gxek. function result = 107.75
+149: cyclic cypher: cyphered text = sqcogyhl, decyphered text = {ykwoÅpt. function result = 85.25
+150: cyclic cypher: cyphered text = u, decyphered text = w. function result = 119
+151: symbols cypher: cyphered text = ufpwjss, decyphered text = rikvxta. function_result = 111
+152: numbers cypher: cyphered text = 9, decyphered text = s. function result = 115
+153: cyclic cypher: cyphered text = iskzgyaqxo, decyphered text = mwo~k}eu|s. function result = 115.4
+154: symbols cypher: cyphered text = mwo, decyphered text = mma. function_result = 105
+155: cyclic cypher: cyphered text = hmvgxd, decyphered text = ot}nk. function result = 116
+156: cyclic cypher: cyphered text = q, decyphered text = {. function result = 123
+157: cyclic cypher: cyphered text = sty, decyphered text = z{Ä. function result = 39
+158: symbols cypher: cyphered text = szdllxne, decyphered text = aexqauxv. function_result = 110.375
+159: numbers cypher: cyphered text = 18407, decyphered text = flm. function result = 106.333
+160: numbers cypher: cyphered text = 30366490301010, decyphered text = qvfnxfcu. function result = 110.125
+161: symbols cypher: cyphered text = oasbzso, decyphered text = aoetzpv. function_result = 111
+162: numbers cypher: cyphered text = 70, decyphered text = u. function result = 117
+163: numbers cypher: cyphered text = 4506083018, decyphered text = ghwqcq. function result = 108.5
+164: cyclic cypher: cyphered text = lxxippiexz, decyphered text = spwwplÅ. function result = 93.9
+165: symbols cypher: cyphered text = onpmhjum, decyphered text = lxzdrher. function_result = 110.375
+166: symbols cypher: cyphered text = bwb, decyphered text = buy. function_result = 112
+167: numbers cypher: cyphered text = 1462453049, decyphered text = guvxjf. function result = 111
+168: numbers cypher: cyphered text = 35148012, decyphered text = utvub. function result = 113.2
+169: symbols cypher: cyphered text = jjhfowa, decyphered text = axxjrkb. function_result = 108.857
+170: cyclic cypher: cyphered text = ybdqbuiybl, decyphered text = zcercvjzcm. function result = 108.9
+171: symbols cypher: cyphered text = crqzsopim, decyphered text = mbyrsyseq. function_result = 111.889
+172: symbols cypher: cyphered text = vbmft, decyphered text = idqvs. function_result = 110.2
+173: symbols cypher: cyphered text = dhoq, decyphered text = bxxw. function_result = 114.25
+174: symbols cypher: cyphered text = whqgnk, decyphered text = xadqwh. function_result = 108.833
+175: numbers cypher: cyphered text = 10612243210, decyphered text = lgntgi. function result = 107.5
+176: cyclic cypher: cyphered text = rloke, decyphered text = ysvrl. function result = 115.2
+177: cyclic cypher: cyphered text = eo, decyphered text = oy. function result = 116
+178: numbers cypher: cyphered text = 309506, decyphered text = rlag. function result = 105.5
+179: symbols cypher: cyphered text = kn, decyphered text = mm. function_result = 109
+180: symbols cypher: cyphered text = r, decyphered text = f. function_result = 102
+181: cyclic cypher: cyphered text = juc, decyphered text = tm. function result = 117.333
+182: symbols cypher: cyphered text = yrdu, decyphered text = jwlk. function_result = 110
+183: cyclic cypher: cyphered text = xryjtaaq, decyphered text = ÄzÅr|iiy. function result = 54.5
+184: cyclic cypher: cyphered text = ova, decyphered text = w~i. function result = 116.667
+185: cyclic cypher: cyphered text = camf, decyphered text = dbng. function result = 102.75
+186: numbers cypher: cyphered text = 24381309616544812, decyphered text = cwvmufbjix. function result = 109.3
+187: symbols cypher: cyphered text = ykat, decyphered text = rzqh. function_result = 113.25
+188: numbers cypher: cyphered text = 166315327049, decyphered text = kadtgt. function result = 106.5
+189: symbols cypher: cyphered text = vhaey, decyphered text = sowyz. function_result = 117.6
+190: cyclic cypher: cyphered text = xkmwzfea, decyphered text = zmoy|hgc. function result = 111.625
+191: cyclic cypher: cyphered text = ixqeydcyvq, decyphered text = o~wkji|w. function result = 117.1
+192: symbols cypher: cyphered text = vj, decyphered text = nj. function_result = 108
+193: numbers cypher: cyphered text = 20504056165244863, decyphered text = nysszxftm. function result = 114.444
+194: cyclic cypher: cyphered text = xhzuqgqbwp, decyphered text = ÇrÑ{q{lÅz. function result = 45.3
+195: symbols cypher: cyphered text = q, decyphered text = d. function_result = 100
+196: cyclic cypher: cyphered text = ynfepgjkb, decyphered text = |qihsjmne. function result = 109.667
+197: numbers cypher: cyphered text = 35813690, decyphered text = hpit. function result = 109.25
+198: symbols cypher: cyphered text = hshmsi, decyphered text = qtoqiv. function_result = 112.667
+199: cyclic cypher: cyphered text = pztdtotlvh, decyphered text = vÄzjzuzr|n. function result = 92.7
+200: numbers cypher: cyphered text = 703635620, decyphered text = ekttp. function result = 110.4
+201: numbers cypher: cyphered text = 3218329449, decyphered text = ehzaim. function result = 106.333
+202: numbers cypher: cyphered text = 723281273630206, decyphered text = otzwrmls. function result = 114.25
+203: cyclic cypher: cyphered text = wpijjg, decyphered text = |unool. function result = 113.5
+204: numbers cypher: cyphered text = 5673525424, decyphered text = ieyafp. function result = 106.333
+205: symbols cypher: cyphered text = akd, decyphered text = mim. function_result = 107.667
+206: cyclic cypher: cyphered text = zplgatfps, decyphered text = uqlfykux. function result = 114.667
+207: numbers cypher: cyphered text = 56248, decyphered text = jqt. function result = 111.667
+208: numbers cypher: cyphered text = 2780631842451016, decyphered text = buwloxqk. function result = 111.625
+209: cyclic cypher: cyphered text = zt, decyphered text = ~x. function result = 123
+210: symbols cypher: cyphered text = hckiovazt, decyphered text = mxphqxlws. function_result = 113.333
+211: cyclic cypher: cyphered text = pejm, decyphered text = wlqt. function result = 114
+212: symbols cypher: cyphered text = qnqt, decyphered text = fahp. function_result = 103.75
+213: symbols cypher: cyphered text = eocto, decyphered text = ymfpo. function_result = 111
+214: symbols cypher: cyphered text = bst, decyphered text = oho. function_result = 108.667
+215: symbols cypher: cyphered text = ez, decyphered text = ex. function_result = 110.5
+216: symbols cypher: cyphered text = olda, decyphered text = qyyw. function_result = 118.5
+217: cyclic cypher: cyphered text = yxpvb, decyphered text = }|tzf. function result = 117.8
+218: numbers cypher: cyphered text = 542015, decyphered text = wik. function result = 110.333
+219: cyclic cypher: cyphered text = srjgawtj, decyphered text = zyqnh~{q. function result = 116.5
+220: numbers cypher: cyphered text = 18271612106025, decyphered text = bnvpglmx. function result = 109.75
+221: numbers cypher: cyphered text = 656, decyphered text = xa. function result = 108.5
+222: numbers cypher: cyphered text = 1215, decyphered text = em. function result = 105
+223: symbols cypher: cyphered text = sp, decyphered text = xr. function_result = 117
+224: cyclic cypher: cyphered text = nrscg, decyphered text = txyim. function result = 114.2
+225: symbols cypher: cyphered text = tltljq, decyphered text = kkykxf. function_result = 110.667
+226: numbers cypher: cyphered text = 3072405018366185412, decyphered text = wltpxewkqc. function result = 111.4
+227: numbers cypher: cyphered text = 2481, decyphered text = et. function result = 108.5
+228: symbols cypher: cyphered text = qkxztb, decyphered text = olsead. function_result = 105.333
+229: symbols cypher: cyphered text = daeqlhgsxz, decyphered text = mxhuvhsnmq. function_result = 111.9
+230: numbers cypher: cyphered text = 2418708367012, decyphered text = khopofy. function result = 109.714
+231: cyclic cypher: cyphered text = zpecigsnn, decyphered text = Ävkiomytt. function result = 86.1111
+232: symbols cypher: cyphered text = adkwchn, decyphered text = tklfjfh. function_result = 106.429
+233: cyclic cypher: cyphered text = tuzgjbifxd, decyphered text = }~ÉpskroÅm. function result = 66.7
+234: symbols cypher: cyphered text = dzrarqxvq, decyphered text = hdgyvzhpz. function_result = 111.778
+235: symbols cypher: cyphered text = kjwdhmsh, decyphered text = xniadssw. function_result = 110.125
+236: numbers cypher: cyphered text = 645, decyphered text = hu. function result = 110.5
+237: symbols cypher: cyphered text = eb, decyphered text = rj. function_result = 110
+238: cyclic cypher: cyphered text = zsevqchw, decyphered text = Ñ}oÄ{mrÅ. function result = 25.375
+239: numbers cypher: cyphered text = 161280614216, decyphered text = ymycilj. function result = 109.857
+240: numbers cypher: cyphered text = 5485427304092830, decyphered text = dccfqnanl. function result = 104.222
+241: symbols cypher: cyphered text = zr, decyphered text = rz. function_result = 118
+242: symbols cypher: cyphered text = sehugaj, decyphered text = fmuvoso. function_result = 111.857
+243: numbers cypher: cyphered text = 361218670, decyphered text = ikzvme. function result = 110.333
+244: cyclic cypher: cyphered text = pqsny, decyphered text = xy{vÅ. function result = 71
+245: symbols cypher: cyphered text = fftqiggme, decyphered text = zbmhzmseb. function_result = 108.667
+246: numbers cypher: cyphered text = 327635497010483650, decyphered text = ecursbfvse. function result = 108
+247: symbols cypher: cyphered text = e, decyphered text = m. function_result = 109
+248: symbols cypher: cyphered text = nmsiwh, decyphered text = gmmjpf. function_result = 106.833
+249: numbers cypher: cyphered text = 2790406, decyphered text = jjwd. function result = 107.75
+250: symbols cypher: cyphered text = vqtly, decyphered text = wbgej. function_result = 105.4
+251: symbols cypher: cyphered text = kqykv, decyphered text = lhbxy. function_result = 110.2
+252: numbers cypher: cyphered text = 2416426312817, decyphered text = izxfhxs. function result = 112.571
+253: symbols cypher: cyphered text = g, decyphered text = w. function_result = 119
+254: numbers cypher: cyphered text = 151220, decyphered text = qnv. function result = 113.667
+255: cyclic cypher: cyphered text = lcfheqnr, decyphered text = mdgifros. function result = 107.375
+256: symbols cypher: cyphered text = o, decyphered text = e. function_result = 101
+257: numbers cypher: cyphered text = 563535422430, decyphered text = musmeb. function result = 108.167
+258: cyclic cypher: cyphered text = grmdxlud, decyphered text = nytks|k. function result = 115.875
+259: symbols cypher: cyphered text = iwng, decyphered text = opwa. function_result = 109.75
+260: numbers cypher: cyphered text = 70504942422070241420, decyphered text = omofbntecd. function result = 105.7
+261: symbols cypher: cyphered text = lw, decyphered text = yi. function_result = 113
+262: cyclic cypher: cyphered text = ojq, decyphered text = qls. function result = 112
+263: numbers cypher: cyphered text = 306423, decyphered text = pfpz. function result = 112
+264: symbols cypher: cyphered text = mxyvbr, decyphered text = cowvov. function_result = 112.667
+265: symbols cypher: cyphered text = vleeferb, decyphered text = mehzapgi. function_result = 106.625
+266: cyclic cypher: cyphered text = dqpnlogmv, decyphered text = kxwusvnt}. function result = 116.333
+267: numbers cypher: cyphered text = 9403014100151835, decyphered text = wqhqvhjt. function result = 111.625
+268: cyclic cypher: cyphered text = wk, decyphered text = s. function result = 121
+269: cyclic cypher: cyphered text = jmxqeuuew, decyphered text = lozsgwwgy. function result = 113.444
+270: numbers cypher: cyphered text = 63, decyphered text = w. function result = 119
+271: symbols cypher: cyphered text = nzidls, decyphered text = fhptbe. function_result = 105.5
+272: cyclic cypher: cyphered text = fkqnrsl, decyphered text = hmsptun. function result = 111.857
+273: symbols cypher: cyphered text = rtdeva, decyphered text = aoogwj. function_result = 107.833
+274: cyclic cypher: cyphered text = gmjrizqn, decyphered text = kqnvm~ur. function result = 114.25
+275: numbers cypher: cyphered text = 40606056, decyphered text = aewz. function result = 109.75
+276: symbols cypher: cyphered text = oknprevo, decyphered text = bvztszwu. function_result = 115.875
+277: cyclic cypher: cyphered text = xqcnmzzll, decyphered text = {tfqp}}oo. function result = 115.333
+278: cyclic cypher: cyphered text = wmg, decyphered text = ~tn. function result = 117.333
+279: cyclic cypher: cyphered text = crmm, decyphered text = l{vv. function result = 116.75
+280: symbols cypher: cyphered text = zh, decyphered text = in. function_result = 107.5
+281: symbols cypher: cyphered text = bvdnt, decyphered text = mefwa. function_result = 105.6
+282: symbols cypher: cyphered text = ithewu, decyphered text = beioua. function_result = 104.833
+283: cyclic cypher: cyphered text = kai, decyphered text = qgo. function result = 109
+284: symbols cypher: cyphered text = ilxlqfro, decyphered text = mnejules. function_result = 108.375
+285: cyclic cypher: cyphered text = ytjwx, decyphered text = É~tÅÇ. function result = -27.2
+286: symbols cypher: cyphered text = viazhsj, decyphered text = qjlbtrg. function_result = 108.286
+287: symbols cypher: cyphered text = tawgegr, decyphered text = aabxnzn. function_result = 107.714
+288: symbols cypher: cyphered text = dwc, decyphered text = mqz. function_result = 114.667
+289: cyclic cypher: cyphered text = kmadz, decyphered text = oqeh~. function result = 111
+290: symbols cypher: cyphered text = q, decyphered text = p. function_result = 112
+291: cyclic cypher: cyphered text = gj, decyphered text = lo. function result = 109.5
+292: numbers cypher: cyphered text = 3531430810213021, decyphered text = ckendmdby. function result = 105
+293: numbers cypher: cyphered text = 8118, decyphered text = tv. function result = 117
+294: symbols cypher: cyphered text = sm, decyphered text = yj. function_result = 113.5
+295: numbers cypher: cyphered text = 282416824872, decyphered text = cdabljz. function result = 104.286
+296: numbers cypher: cyphered text = 84812, decyphered text = zlp. function result = 114
+297: symbols cypher: cyphered text = vjzlstsj, decyphered text = mcslwnff. function_result = 108
+298: symbols cypher: cyphered text = utzkqro, decyphered text = ymwhltb. function_result = 110.714
+299: cyclic cypher: cyphered text = bkj, decyphered text = dml. function result = 105.667
+300: symbols cypher: cyphered text = esexhjxbxx, decyphered text = bhpqttuobe. function_result = 108.6
+301: symbols cypher: cyphered text = ccndtnt, decyphered text = cuqtoio. function_result = 110.286
+302: symbols cypher: cyphered text = aymbkb, decyphered text = zdcimn. function_result = 107.5
+303: symbols cypher: cyphered text = eninaqjlg, decyphered text = ogrwknykl. function_result = 111.111
+304: symbols cypher: cyphered text = e, decyphered text = y. function_result = 121
+305: cyclic cypher: cyphered text = pkbrhxga, decyphered text = sneuk{jd. function result = 109.875
+306: symbols cypher: cyphered text = vlidf, decyphered text = fljcd. function_result = 103
+307: symbols cypher: cyphered text = w, decyphered text = e. function_result = 101
+308: numbers cypher: cyphered text = 563635650325463, decyphered text = uddkfimb. function result = 104.75
+309: cyclic cypher: cyphered text = ul, decyphered text = }t. function result = 120.5
+310: cyclic cypher: cyphered text = ayerzyzcrk, decyphered text = c{gt|{|etm. function result = 113.8
+311: numbers cypher: cyphered text = 82445, decyphered text = bbc. function result = 98.3333
+312: symbols cypher: cyphered text = ezuuhbuo, decyphered text = vrtbxiys. function_result = 113.375
+313: symbols cypher: cyphered text = ccbdsbvd, decyphered text = kxbsttiy. function_result = 112.25
+314: numbers cypher: cyphered text = 3, decyphered text = j. function result = 106
+315: cyclic cypher: cyphered text = zywimspg, decyphered text = ÑÉÅsw}zq. function result = 27.25
+316: numbers cypher: cyphered text = 728728, decyphered text = ftjd. function result = 106
+317: numbers cypher: cyphered text = 208056, decyphered text = tun. function result = 114.333
+318: symbols cypher: cyphered text = yxmydjtp, decyphered text = lrcngrtb. function_result = 107.75
+319: symbols cypher: cyphered text = nsmdtudz, decyphered text = zfoqyskt. function_result = 113.375
+320: symbols cypher: cyphered text = nzewf, decyphered text = hfvja. function_result = 105.4
+321: cyclic cypher: cyphered text = ulkp, decyphered text = wnmr. function result = 113
+322: symbols cypher: cyphered text = zosoe, decyphered text = kzxbq. function_result = 112
+323: symbols cypher: cyphered text = svjwvnhozo, decyphered text = wswdtuaxug. function_result = 112.3
+324: symbols cypher: cyphered text = gvv, decyphered text = pxs. function_result = 115.667
+325: cyclic cypher: cyphered text = mtvgirnc, decyphered text = u|~oqzvk. function result = 117.25
+326: numbers cypher: cyphered text = 16182236803020, decyphered text = elgydsnx. function result = 109.75
+327: cyclic cypher: cyphered text = jyixji, decyphered text = po~po. function result = 116.5
+328: symbols cypher: cyphered text = e, decyphered text = o. function_result = 111
+329: cyclic cypher: cyphered text = kwfe, decyphered text = uÅpo. function result = 53.25
+330: numbers cypher: cyphered text = 365640206010, decyphered text = adsfgs. function result = 105.333
+331: cyclic cypher: cyphered text = uzbqy, decyphered text = v{crz. function result = 115.2
+332: cyclic cypher: cyphered text = vwlce, decyphered text = yzofh. function result = 112
+333: symbols cypher: cyphered text = psnqil, decyphered text = qohdoy. function_result = 110
+334: symbols cypher: cyphered text = wqbd, decyphered text = fumg. function_result = 107.75
+335: cyclic cypher: cyphered text = mkslsruiyl, decyphered text = sqyryx{or. function result = 117.9
+336: numbers cypher: cyphered text = 9036282436100506147, decyphered text = daeaamshsn. function result = 104.5
+337: cyclic cypher: cyphered text = sg, decyphered text = wk. function result = 113
+338: symbols cypher: cyphered text = dhktnhgp, decyphered text = umhwnwaz. function_result = 112.125
+339: symbols cypher: cyphered text = ccsezv, decyphered text = velyox. function_result = 113.167
+340: numbers cypher: cyphered text = 85, decyphered text = tj. function result = 111
+341: symbols cypher: cyphered text = j, decyphered text = o. function_result = 111
+342: numbers cypher: cyphered text = 202010, decyphered text = tep. function result = 109.667
+343: cyclic cypher: cyphered text = cdgsiacci, decyphered text = hilxnfhhn. function result = 107.444
+344: symbols cypher: cyphered text = oawgsv, decyphered text = hajnae. function_result = 102.5
+345: numbers cypher: cyphered text = 35276012404040408112, decyphered text = hzoiscxdnk. function result = 109.3
+346: cyclic cypher: cyphered text = dtwtbn, decyphered text = hx{xfr. function result = 113.833
+347: cyclic cypher: cyphered text = hslkfezss, decyphered text = lwpoji~ww. function result = 113.889
+348: symbols cypher: cyphered text = wuqejxi, decyphered text = fedmlvs. function_result = 107.571
+349: cyclic cypher: cyphered text = xqvzgf, decyphered text = yrw{hg. function result = 114
+350: numbers cypher: cyphered text = 2090100123564501562, decyphered text = epjrygyrsz. function result = 112.9
+351: numbers cypher: cyphered text = 96076424, decyphered text = lhsya. function result = 109
+352: symbols cypher: cyphered text = c, decyphered text = n. function_result = 110
+353: cyclic cypher: cyphered text = klltlmit, decyphered text = rss{stp{. function result = 116.625
+354: symbols cypher: cyphered text = bm, decyphered text = hd. function_result = 102
+355: numbers cypher: cyphered text = 902424541663, decyphered text = eodchi. function result = 103.333
+356: symbols cypher: cyphered text = cvjkkyos, decyphered text = lgkrxvbv. function_result = 110.75
+357: cyclic cypher: cyphered text = vqxxhp, decyphered text = Ä{ÇÇrz. function result = -3.5
+358: symbols cypher: cyphered text = dnern, decyphered text = wtatt. function_result = 112.8
+359: numbers cypher: cyphered text = 59271462490, decyphered text = fnqfeiq. function result = 106.571
+360: numbers cypher: cyphered text = 28322030279032, decyphered text = taukrrum. function result = 111.375
+361: cyclic cypher: cyphered text = iszhmqjp, decyphered text = s}Ñrw{tz. function result = 88.75
+362: cyclic cypher: cyphered text = ryn, decyphered text = zÅv. function result = 37.6667
+363: numbers cypher: cyphered text = 20610704639080, decyphered text = dmrizlek. function result = 108.25
+364: numbers cypher: cyphered text = 15634212635, decyphered text = gneoidc. function result = 104.143
+365: symbols cypher: cyphered text = jrhtzxwr, decyphered text = wvoigmib. function_result = 108.5
+366: cyclic cypher: cyphered text = nqi, decyphered text = orj. function result = 110.333
+367: cyclic cypher: cyphered text = o, decyphered text = x. function result = 120
+368: cyclic cypher: cyphered text = z, decyphered text = Ñ. function result = -124
+369: numbers cypher: cyphered text = 124525125016303, decyphered text = vtammedr. function result = 108
+370: numbers cypher: cyphered text = 3010104608048499030, decyphered text = tbjhggixcg. function result = 105.7
+371: symbols cypher: cyphered text = h, decyphered text = q. function_result = 113
+372: cyclic cypher: cyphered text = yxrcibggi, decyphered text = ÅÄzkqjooq. function result = 58.6667
+373: numbers cypher: cyphered text = 1214145840491527, decyphered text = tmluflrxx. function result = 112.667
+374: numbers cypher: cyphered text = 100804035249842, decyphered text = itjrrayzb. function result = 110.333
+375: cyclic cypher: cyphered text = vmwgfyruwq, decyphered text = ÄwÅqpÉ|Å{. function result = 21.1
+376: cyclic cypher: cyphered text = dcohtr, decyphered text = ihtmyw. function result = 112.333
+377: numbers cypher: cyphered text = 366620727018, decyphered text = jiquizz. function result = 112.857
+378: numbers cypher: cyphered text = 33630, decyphered text = pcf. function result = 104.333
+379: symbols cypher: cyphered text = nb, decyphered text = og. function_result = 107
+380: numbers cypher: cyphered text = 325630361236, decyphered text = xdamgc. function result = 104.667
+381: cyclic cypher: cyphered text = smejm, decyphered text = tnfkn. function result = 109
+382: cyclic cypher: cyphered text = nwgsdhegjf, decyphered text = pyiufjgilh. function result = 108.3
+383: symbols cypher: cyphered text = bzehljzd, decyphered text = knbelhci. function_result = 104
+384: cyclic cypher: cyphered text = rjxusvyu, decyphered text = um{xvy|x. function result = 119
+385: symbols cypher: cyphered text = ttlsmozpji, decyphered text = wmdfprcpoc. function_result = 107.7
+386: symbols cypher: cyphered text = uihyrhlg, decyphered text = zkcatgnt. function_result = 108.75
+387: symbols cypher: cyphered text = vj, decyphered text = zh. function_result = 113
+388: numbers cypher: cyphered text = 725072726348, decyphered text = zxvxsg. function result = 116.333
+389: symbols cypher: cyphered text = wfl, decyphered text = arl. function_result = 106.333
+390: symbols cypher: cyphered text = xzongnsvkv, decyphered text = ezxymdiqhb. function_result = 109.3
+391: symbols cypher: cyphered text = zdsqvi, decyphered text = bzabcj. function_result = 103.333
+392: numbers cypher: cyphered text = 6390182060404036, decyphered text = hqvvibex. function result = 109.625
+393: symbols cypher: cyphered text = qvfw, decyphered text = gdeg. function_result = 101.75
+394: numbers cypher: cyphered text = 7228324128706430, decyphered text = svlcrxzee. function result = 110.889
+395: numbers cypher: cyphered text = 3018224618, decyphered text = gahpzm. function result = 107.833
+396: numbers cypher: cyphered text = 27, decyphered text = b. function result = 98
+397: cyclic cypher: cyphered text = zcrmls, decyphered text = {dsnmt. function result = 112.167
+398: numbers cypher: cyphered text = 185410366320, decyphered text = ycrssd. function result = 110.667
+399: symbols cypher: cyphered text = dazvvj, decyphered text = vinrnk. function_result = 110.667
+400: cyclic cypher: cyphered text = w, decyphered text = z. function result = 122
+401: numbers cypher: cyphered text = 3524241816, decyphered text = lfroc. function result = 106.8
+402: symbols cypher: cyphered text = suxn, decyphered text = hcsg. function_result = 105.25
+403: cyclic cypher: cyphered text = wifksh, decyphered text = {mjowl. function result = 112.667
+404: numbers cypher: cyphered text = 35314102040100, decyphered text = paselag. function result = 104.714
+405: cyclic cypher: cyphered text = qxbbqqzdyx, decyphered text = yÄjjyyÇlÅÄ. function result = 17.4
+406: symbols cypher: cyphered text = q, decyphered text = z. function_result = 122
+407: symbols cypher: cyphered text = bghaegyw, decyphered text = gwtsagsv. function_result = 110.75
+408: numbers cypher: cyphered text = 21630706624154, decyphered text = taedvmloi. function result = 107.222
+409: cyclic cypher: cyphered text = sypxwyd, decyphered text = {ÅxÄÅl. function result = 13.7143
+410: cyclic cypher: cyphered text = h, decyphered text = k. function result = 107
+411: numbers cypher: cyphered text = 2018129, decyphered text = hwdd. function result = 105.75
+412: numbers cypher: cyphered text = 72, decyphered text = g. function result = 103
+413: numbers cypher: cyphered text = 1616, decyphered text = tm. function result = 112.5
+414: symbols cypher: cyphered text = k, decyphered text = q. function_result = 113
+415: symbols cypher: cyphered text = gewvylt, decyphered text = snmzadc. function_result = 107.429
+416: cyclic cypher: cyphered text = idgsluhjl, decyphered text = mhkwpylnp. function result = 111.333
+417: cyclic cypher: cyphered text = rsurlbnpc, decyphered text = tuwtndpre. function result = 111.667
+418: numbers cypher: cyphered text = 635, decyphered text = ib. function result = 101.5
+419: numbers cypher: cyphered text = 483, decyphered text = ei. function result = 103
+420: symbols cypher: cyphered text = cbbz, decyphered text = dyll. function_result = 109.25
+421: numbers cypher: cyphered text = 361521, decyphered text = frg. function result = 106.333
+422: symbols cypher: cyphered text = miiit, decyphered text = hhwbl. function_result = 106.6
+423: numbers cypher: cyphered text = 403242601836101056, decyphered text = ceojgzgyk. function result = 108.111
+424: symbols cypher: cyphered text = t, decyphered text = q. function_result = 113
+425: cyclic cypher: cyphered text = zhntcfp, decyphered text = ~lrxgjt. function result = 113.286
+426: numbers cypher: cyphered text = 2825241248487463, decyphered text = spqoxbodd. function result = 108.889
+427: symbols cypher: cyphered text = yzcqlae, decyphered text = ycewrqd. function_result = 109.571
+428: cyclic cypher: cyphered text = g, decyphered text = n. function result = 110
+429: symbols cypher: cyphered text = ptro, decyphered text = pbbq. function_result = 105.25
+430: cyclic cypher: cyphered text = xkdgfmwi, decyphered text = {ngjipzl. function result = 111.125
+431: symbols cypher: cyphered text = dsyyxgsxpk, decyphered text = bzdpeaewex. function_result = 107.1
+432: cyclic cypher: cyphered text = xpvgsb, decyphered text = yqwhtc. function result = 112
+433: numbers cypher: cyphered text = 819, decyphered text = ho. function result = 107.5
+434: symbols cypher: cyphered text = hgc, decyphered text = zsw. function_result = 118.667
+435: numbers cypher: cyphered text = 80184489454240508, decyphered text = koohtfthqe. function result = 108.5
+436: symbols cypher: cyphered text = eolhax, decyphered text = yrgxop. function_result = 113.5
+437: symbols cypher: cyphered text = kzjvrg, decyphered text = sedalf. function_result = 103.833
+438: cyclic cypher: cyphered text = om, decyphered text = tr. function result = 115
+439: symbols cypher: cyphered text = rdej, decyphered text = mwht. function_result = 112
+440: numbers cypher: cyphered text = 612, decyphered text = ki. function result = 106
+441: numbers cypher: cyphered text = 881403624, decyphered text = wclxq. function result = 111.8
+442: cyclic cypher: cyphered text = xieb, decyphered text = ~okh. function result = 112
+443: numbers cypher: cyphered text = 6901282421, decyphered text = jbeodj. function result = 103.667
+444: symbols cypher: cyphered text = njufy, decyphered text = zaaab. function_result = 102.2
+445: symbols cypher: cyphered text = sa, decyphered text = fg. function_result = 102.5
+446: numbers cypher: cyphered text = 90122112324, decyphered text = rcsbjl. function result = 106.667
+447: numbers cypher: cyphered text = 7036881182810050910, decyphered text = ozxhoddktr. function result = 110.5
+448: numbers cypher: cyphered text = 454182751525215, decyphered text = gwfkqacoxh. function result = 107.5
+449: symbols cypher: cyphered text = twupexx, decyphered text = tpenebx. function_result = 108.286
+450: cyclic cypher: cyphered text = rt, decyphered text = xz. function result = 121
+451: symbols cypher: cyphered text = suni, decyphered text = migd. function_result = 104.25
+452: symbols cypher: cyphered text = mllsatuny, decyphered text = mqoypwkse. function_result = 112
+453: symbols cypher: cyphered text = pvcmcgl, decyphered text = kygclwy. function_result = 111.143
+454: cyclic cypher: cyphered text = blhf, decyphered text = dnjh. function result = 105
+455: numbers cypher: cyphered text = 28906049563050414, decyphered text = ydpuvrkqj. function result = 112
+456: numbers cypher: cyphered text = 2170201264401412, decyphered text = bknseolt. function result = 108.25
+457: cyclic cypher: cyphered text = kppx, decyphered text = ott|. function result = 116.75
+458: symbols cypher: cyphered text = defqtcex, decyphered text = lomwrdpp. function_result = 110.625
+459: symbols cypher: cyphered text = lcceblpxws, decyphered text = oztgchutlr. function_result = 111
+460: cyclic cypher: cyphered text = rztdka, decyphered text = |Ñ~nuk. function result = 76.6667
+461: cyclic cypher: cyphered text = zw, decyphered text = |y. function result = 122.5
+462: symbols cypher: cyphered text = ffperjqu, decyphered text = tzykzumb. function_result = 114
+463: numbers cypher: cyphered text = 93010, decyphered text = jwc. function result = 108
+464: numbers cypher: cyphered text = 1048185661663632, decyphered text = rpdjntmuu. function result = 111.222
+465: numbers cypher: cyphered text = 28501410, decyphered text = ntgo. function result = 110
+466: cyclic cypher: cyphered text = jdddqiby, decyphered text = mgggtle|. function result = 108.375
+467: numbers cypher: cyphered text = 401572630, decyphered text = rmejo. function result = 108.2
+468: numbers cypher: cyphered text = 202730, decyphered text = gtc. function result = 106
+469: symbols cypher: cyphered text = gfoh, decyphered text = grvo. function_result = 111.5
+470: symbols cypher: cyphered text = puaqikhpes, decyphered text = uvbarprarw. function_result = 110
+471: numbers cypher: cyphered text = 624017204221, decyphered text = eabvzdya. function result = 106.75
+472: numbers cypher: cyphered text = 15881240202036, decyphered text = yehtrmme. function result = 109.375
+473: symbols cypher: cyphered text = tgsrrqe, decyphered text = kwuzovp. function_result = 115.143
+474: numbers cypher: cyphered text = 8501070294867036, decyphered text = obwufcydvz. function result = 110.7
+475: numbers cypher: cyphered text = 1640432510303281, decyphered text = grfqjmufo. function result = 108.556
+476: cyclic cypher: cyphered text = zzxdag, decyphered text = ÑÑÇnkq. function result = -7.33333
+477: numbers cypher: cyphered text = 1821242159066354, decyphered text = fcwsfaddz. function result = 106.222
+478: symbols cypher: cyphered text = rhd, decyphered text = cxy. function_result = 113.333
+479: numbers cypher: cyphered text = 209016830353618906, decyphered text = bymgubtocb. function result = 107
+480: cyclic cypher: cyphered text = zgsicerghv, decyphered text = Ñq}smo|qrÄ. function result = 67.2
+481: symbols cypher: cyphered text = h, decyphered text = v. function_result = 118
+482: symbols cypher: cyphered text = qmbsjiozzc, decyphered text = imeioclkzu. function_result = 108.4
+483: symbols cypher: cyphered text = hrhmsc, decyphered text = malhch. function_result = 103.5
+484: symbols cypher: cyphered text = vmiwu, decyphered text = vygsm. function_result = 113.2
+485: cyclic cypher: cyphered text = bd, decyphered text = ce. function result = 100
+486: numbers cypher: cyphered text = 186328508162, decyphered text = vjumdax. function result = 109.571
+487: cyclic cypher: cyphered text = twgmfer, decyphered text = x{kqjiv. function result = 113.143
+488: symbols cypher: cyphered text = qlxwiemnm, decyphered text = vmtldbxjr. function_result = 109.889
+489: numbers cypher: cyphered text = 956564030163, decyphered text = sbtuqty. function result = 113.714
+490: symbols cypher: cyphered text = wqs, decyphered text = slf. function_result = 108.333
+491: numbers cypher: cyphered text = 48122740, decyphered text = bdtg. function result = 104.25
+492: numbers cypher: cyphered text = 80285204027184, decyphered text = rrhjakjg. function result = 106.375
+493: cyclic cypher: cyphered text = lqhzagjk, decyphered text = qvmflop. function result = 112.5
+494: cyclic cypher: cyphered text = nqwfymj, decyphered text = psyh{ol. function result = 113.429
+495: symbols cypher: cyphered text = jtby, decyphered text = grmu. function_result = 110.75
+496: cyclic cypher: cyphered text = ok, decyphered text = uq. function result = 115
+497: numbers cypher: cyphered text = 90352012441015, decyphered text = vldqvfwt. function result = 111.75
+498: symbols cypher: cyphered text = jaq, decyphered text = swk. function_result = 113.667
+499: symbols cypher: cyphered text = jhxckbi, decyphered text = tsvrqgd. function_result = 111.286

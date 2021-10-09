@@ -1,0 +1,45 @@
+1
+abc
+a b b c c d
+3
+7
+1 5 2 30 4 9 11
+f 1 r 5 i 2 e 30 n 4 d 9 s 11
+2
+alphabet
+10
+1
+hse
+h d s f e g
+2
+test
+5
+3
+3
+1 2 3
+a 1 b 2 c 3
+1
+test
+t q e w s e t r
+2
+abc
+2
+1
+rule
+r m u a l k e e
+2
+fdhsjghdk
+9
+3
+6
+1 5 2 30 4 9
+f 1 r 5 i 2 e 30 n 4 d 9
+2
+abcdefgh
+1
+2
+abcdefgh
+2
+2
+ab
+1
